@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGitRebaseApp
 {
-    internal class m2
+    internal class main
     {
     }
 }

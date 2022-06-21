@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="main\" />
-    <Folder Include="featureA3\" />
-    <Folder Include="main3\" />
+    <Compile Remove="main\**" />
+    <EmbeddedResource Remove="main\**" />
+    <None Remove="main\**" />
   </ItemGroup>
 
 </Project>
