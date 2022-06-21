@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="main\" />
+    <Folder Include="featureA3\" />
     <Folder Include="main3\" />
   </ItemGroup>
 
