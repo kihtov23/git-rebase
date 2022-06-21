@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Folder Include="main\" />
-    <Folder Include="featureA2\" />
+    <Folder Include="featureA3\" />
   </ItemGroup>
 
 </Project>
